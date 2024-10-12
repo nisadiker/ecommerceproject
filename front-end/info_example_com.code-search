@@ -1,0 +1,47 @@
+# Query: info@example.com
+# ContextLines: 1
+
+9 results - 7 files
+
+front-end/cart.php:
+  334                  <p class="mb-2"><i class="fa fa-map-marker-alt text-primary mr-3"></i>MALTEPE ÜNİVERSİTESİ/İSTANBUL</p>
+  335:                 <p class="mb-2"><i class="fa fa-envelope text-primary mr-3"></i>info@example.com</p>
+  336                  <p class="mb-0"><i class="fa fa-phone-alt text-primary mr-3"></i>+012 345 67890</p>
+
+front-end/checkout.php:
+  367                  <p class="mb-2"><i class="fa fa-map-marker-alt text-primary mr-3"></i>MALTEPE ÜNİVERSİTESİ/İSTANBUL</p>
+  368:                 <p class="mb-2"><i class="fa fa-envelope text-primary mr-3"></i>nisa_278@outlook.com</p>
+  369                  <p class="mb-0"><i class="fa fa-phone-alt text-primary mr-3"></i>+90 5556667788</p>
+
+front-end/contact.php:
+  215                      <p class="mb-2"><i class="fa fa-map-marker-alt text-primary mr-3"></i>MALTEPE ÜNİVERSİTESİ/İSTANBUL</p>
+  216:                     <p class="mb-2"><i class="fa fa-envelope text-primary mr-3"></i>info@example.com</p>
+  217                      <p class="mb-2"><i class="fa fa-phone-alt text-primary mr-3"></i>+012 345 67890</p>
+
+  221                      <p class="mb-2"><i class="fa fa-map-marker-alt text-primary mr-3"></i>MALTEPE ÜNİVERSİTESİ/İSTANBUL</p>
+  222:                     <p class="mb-2"><i class="fa fa-envelope text-primary mr-3"></i>info@example.com</p>
+  223                      <p class="mb-0"><i class="fa fa-phone-alt text-primary mr-3"></i>+012 345 67890</p>
+
+  239                  <p class="mb-2"><i class="fa fa-map-marker-alt text-primary mr-3"></i>MALTEPE ÜNİVERSİTESİ/İSTANBUL</p>
+  240:                 <p class="mb-2"><i class="fa fa-envelope text-primary mr-3"></i>info@example.com</p>
+  241                  <p class="mb-0"><i class="fa fa-phone-alt text-primary mr-3"></i>+012 345 67890</p>
+
+front-end/detail.php:
+  507                  <p class="mb-2"><i class="fa fa-map-marker-alt text-primary mr-3"></i>MALTEPE ÜNİVERSİTESİ/İSTANBUL</p>
+  508:                 <p class="mb-2"><i class="fa fa-envelope text-primary mr-3"></i>info@example.com</p>
+  509                  <p class="mb-0"><i class="fa fa-phone-alt text-primary mr-3"></i>+012 345 67890</p>
+
+front-end/index.php:
+  674                  <p class="mb-2"><i class="fa fa-map-marker-alt text-primary mr-3"></i>MALTEPE ÜNİVERSİTESİ/İSTANBUL</p>
+  675:                 <p class="mb-2"><i class="fa fa-envelope text-primary mr-3"></i>info@example.com</p>
+  676                  <p class="mb-0"><i class="fa fa-phone-alt text-primary mr-3"></i>+012 345 67890</p>
+
+front-end/shop.php:
+  558                  <p class="mb-2"><i class="fa fa-map-marker-alt text-primary mr-3"></i>MALTEPE ÜNİVERSİTESİ/İSTANBUL</p>
+  559:                 <p class="mb-2"><i class="fa fa-envelope text-primary mr-3"></i>info@example.com</p>
+  560                  <p class="mb-0"><i class="fa fa-phone-alt text-primary mr-3"></i>+012 345 67890</p>
+
+front-end/mail/contact.php:
+  11  
+  12: $to = "info@example.com"; // Change this email to your //
+  13  $subject = "$m_subject:  $name";
